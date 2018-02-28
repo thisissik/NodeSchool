@@ -3,4 +3,4 @@ module.exports = function(inputWords) {
         aggregate[word] =  (aggregate.hasOwnProperty(word)) ? aggregate[word] + 1 : 1;
         return aggregate;
     },{} );
-}
+};
