@@ -5,7 +5,7 @@ function foo() {
     function zip() {
         var quux = 1;
         bar = true;
-    };
+    }
     return zip;
 }
 
