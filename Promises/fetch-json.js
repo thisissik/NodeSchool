@@ -5,4 +5,4 @@ http.read("http://localhost:1337").then(
         let json = JSON.parse(req);
         console.log(json);
     }
-)
+);
